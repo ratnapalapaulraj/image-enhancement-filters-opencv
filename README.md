@@ -65,8 +65,8 @@ Display all filtered images using a grid layout for comparison.
 
 ##  Developed By
 
-- **Name:** ____________________________  
-- **Register No:** ______________________  
+- **Name:** RATNAPALA P  
+- **Register No:** 212225100037  
 
 ---
 
@@ -78,11 +78,13 @@ Display all filtered images using a grid layout for comparison.
 - Weighted averaging provides smoother result with less distortion  
 - Gaussian filter preserves edges better while reducing noise  
 - Median filter removes salt-and-pepper noise effectively  
+<img width="1687" height="917" alt="image" src="https://github.com/user-attachments/assets/a6b1899a-9e4e-4b99-9271-d7af3d653e9f" />
 
 ###  Sharpening Filters
 
 - Laplacian kernel enhances edges and fine details  
 - Laplacian operator detects edges clearly in grayscale  
+<img width="1913" height="937" alt="image" src="https://github.com/user-attachments/assets/ba3b68eb-fc72-478f-bee1-326e52c5c773" />
 
 ---
 
